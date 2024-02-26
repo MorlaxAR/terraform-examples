@@ -1,0 +1,60 @@
+{
+  "version": 4,
+  "terraform_version": "1.7.4",
+  "serial": 1,
+  "lineage": "9c6c760c-7886-db4e-d7fd-2d24e8885511",
+  "outputs": {},
+  "resources": [
+    {
+      "mode": "data",
+      "type": "github_repository",
+      "name": "repo",
+      "provider": "provider[\"registry.terraform.io/integrations/github\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "allow_auto_merge": false,
+            "allow_merge_commit": false,
+            "allow_rebase_merge": false,
+            "allow_squash_merge": false,
+            "archived": false,
+            "default_branch": "main",
+            "description": "Some Terraform examples I regularly use",
+            "fork": false,
+            "full_name": "MorlaxAR/terraform-examples",
+            "git_clone_url": "git://github.com/MorlaxAR/terraform-examples.git",
+            "has_discussions": false,
+            "has_downloads": true,
+            "has_issues": true,
+            "has_projects": true,
+            "has_wiki": true,
+            "homepage_url": "",
+            "html_url": "https://github.com/MorlaxAR/terraform-examples",
+            "http_clone_url": "https://github.com/MorlaxAR/terraform-examples.git",
+            "id": "terraform-examples",
+            "is_template": false,
+            "merge_commit_message": "",
+            "merge_commit_title": "",
+            "name": "terraform-examples",
+            "node_id": "R_kgDOLYZt4g",
+            "pages": [],
+            "primary_language": "",
+            "private": false,
+            "repo_id": 763784674,
+            "repository_license": [],
+            "squash_merge_commit_message": "",
+            "squash_merge_commit_title": "",
+            "ssh_clone_url": "git@github.com:MorlaxAR/terraform-examples.git",
+            "svn_url": "https://github.com/MorlaxAR/terraform-examples",
+            "template": [],
+            "topics": [],
+            "visibility": "public"
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    }
+  ],
+  "check_results": null
+}
